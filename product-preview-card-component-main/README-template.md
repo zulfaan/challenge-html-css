@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.output/output-desktop-design.JPG)
+![](./output/output-desktop-design.JPG)
 
 ### Links
 
