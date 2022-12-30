@@ -12,7 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -48,6 +47,4 @@ After I worked on this project, I wanted to learn more about HTML and CSS. I fee
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/zulfaan)
 - Twitter - [@yourusername](https://www.twitter.com/longlive1984)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
