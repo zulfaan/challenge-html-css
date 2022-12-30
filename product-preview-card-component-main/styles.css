@@ -1,5 +1,5 @@
 body{
-    /* width: 1440px; */
+    width: 1440px;
     background-color: #FBCC9D
     
 }
@@ -32,22 +32,10 @@ h2{
     text-align: left;
     font-size: 14px;
 }
-span{
-    padding: 8px;
-}
-a{
-    position: relative;
-    right: 20px;
-    top: 20px;
-    text-align: center;
-}
 .card-shop{
     background-color: #FFFFFF;
     width: 550px;
     height: 400px;
-
-    /* width: 550px;
-    height: 400px; */
 }
 .image-product{
     height: 400px;
@@ -58,6 +46,10 @@ a{
 }
 .text{
     margin-top: 20px;
+}
+.price{
+    padding: 8px;
+    justify-content: center;
 }
 .discount{
     font-family: 'Fraunces', serif;
@@ -80,20 +72,14 @@ a{
     background: #3C8067;
     padding: 10px 40px 10px 40px;
     text-decoration: none;
-    
+    position: relative;
+    right: 20px;
   }
   
   .btn:hover {
     background: #1C232B;
     text-decoration: none;
   }
-
-/* .sub-title{
-    width: 50px;
+.btn-icon{
+    padding: 8px;
 }
-.title{
-    width: 100px;
-}
-.text-description{
-    width: 100px;
-} */
