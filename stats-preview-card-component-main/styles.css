@@ -36,12 +36,28 @@ td{
     width: 55rem;
     border-radius: 0.75rem;
 }
+.image-sheet{
+    width: 25rem;
+    float: right;
+    border-top-right-radius: 0.75rem;
+    border-bottom-right-radius: 0.75rem;
+}
+.blend{
+    background: hsl(277, 64%, 61%);
+    mix-blend-mode: screen;
+    -webkit-filter: grayscale(20%);
+    filter: grayscale(20%) contrast(200%);
+    opacity: 0.5;
+}
 .image{
     width: 25rem;
     float: right;
     border-top-right-radius: 0.75rem;
     border-bottom-right-radius: 0.75rem;
-    opacity: 0.4;
+    display: block;
+    /* -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    opacity: 0.5; */
 }
 .sheet-text{
     width: 25rem;
