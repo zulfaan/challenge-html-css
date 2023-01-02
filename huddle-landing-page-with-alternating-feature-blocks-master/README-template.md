@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://1f18bcab.huddle-landing-page-challenge.pages.dev/)
+- Live Site URL: [huddle-landing-page-challenge](https://1f18bcab.huddle-landing-page-challenge.pages.dev/)
 
 ## My process
 
@@ -49,5 +49,5 @@ After this challenge, I want to upgrade my skill to learn JS and React!!
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/zulfaan)
-- Twitter - [@yourusername](https://www.twitter.com/longlive1984)
+- Frontend Mentor - [@zulfaan](https://www.frontendmentor.io/profile/zulfaan)
+- Twitter - [@zulfaan](https://www.twitter.com/longlive1984)
